@@ -1,0 +1,31 @@
+{
+    "name": "com.namphuthuy.dotween",
+    "version": "1.3.3",
+    "displayName": "DOTween",
+    "description": "A Unity C# animation engine. HOTween v2.",
+    "unity": "6000.0",
+    "categories": 
+    [
+        "Tools",
+        "Visual Effects",
+        "Animation"
+    ],
+    "keywords": 
+    [
+        "unity",
+        "tools",
+        "tween"
+    ],
+    "dependencies": 
+    {
+    },
+    "author": 
+    {
+        "name": "NamPhuThuy",
+        "email": "ttnam957@gmail.com",
+        "url": "https://github.com/NamPhuThuy"
+    },
+    "license": "MIT",
+    "changelogUrl": "https://github.com/NamPhuThuy/Unity-Package-DOTween",
+    "documentationUrl": "https://github.com/NamPhuThuy/Unity-Package-DOTween"
+}
